@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Scan Me",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
